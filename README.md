@@ -28,3 +28,6 @@ The culmination will then be brought into a web-app, where all three projects ca
 
 ### Web-App
 - [ ] Create SPA to use Planes, Trains, and Automobiles in a simple JS site.
+
+# Note from Author
+This will likely be on hold for a little while, as I'm closing out my summer internship, starting up my senior year at BSU, and am currently in the process of remaking [Qirby](https://github.com/HunterBarclay/Qirby/) from the ground up.
